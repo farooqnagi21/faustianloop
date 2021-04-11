@@ -1,0 +1,12 @@
+.hero1-bg-img {
+    background: url('../assets/bg1.png');
+    background-size: cover;
+}
+.hero2-bg-img {
+    background: url('./../assets/background.png');
+    background-size: cover;
+}
+.hero3-bg-img {
+    background: url('./../assets/career.png');
+    background-size: cover;
+}
